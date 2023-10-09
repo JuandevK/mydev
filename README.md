@@ -21,3 +21,5 @@ The file explorer is accessible using the button in left
 |        | `That will allow a proccess be active for max: 30minutes(1800 seconds)` |
 |        | `After install it, Requires go to: Settings/API Token/ and enter` |
 |        |`Custom URL: https://api1-tmx.app.portpro.io/v1/customer/ API Token: token(kind of token is beared but bearer word is not required) After that requires go to Settings/Technical/Automation/Scheduled Actions, and the action: "Automatic GET Request : Every 1 days run get request."will be created automatically by the installation process` |
+
+`$ npm install marked`
