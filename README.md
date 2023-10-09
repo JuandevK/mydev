@@ -67,7 +67,6 @@ var testBox = box();
 testBox.add("jQuery").remove("jQuery");
 ```
 
-<details>
-<summary>FlowChart</summary>
+<details><summary>Lista desplegable</summary>
 	
 </details>
