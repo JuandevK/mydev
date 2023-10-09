@@ -66,3 +66,8 @@ function test(){
 var testBox = box();
 testBox.add("jQuery").remove("jQuery");
 ```
+
+<details>
+
+	
+</details>
