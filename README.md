@@ -34,7 +34,7 @@ https://www.youtube.com/watch?v=fjXGrHcR1X0&list=PL-zDV7_rrd2onNkmb5weffcFiGQxWy
 
 <details><summary>custom_api_module</summary>	
 	
- It brings customers from PP, into contacts module
+ It brings customers from PP, into contacts module <br>
  Before install requires:
  - Go to:
 
