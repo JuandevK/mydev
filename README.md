@@ -1,4 +1,3 @@
-
 # README
 This is document recopiles settings required to compile and execute weebhook script without problems.
 
@@ -35,8 +34,8 @@ https://www.youtube.com/watch?v=fjXGrHcR1X0&list=PL-zDV7_rrd2onNkmb5weffcFiGQxWy
 
 <details><summary>custom_api_module</summary>	
 	
- - It brings customers from PP, into contacts module
- - Before install requires:
+ It brings customers from PP, into contacts module
+ Before install requires:
  - Go to:
 
  
@@ -54,7 +53,6 @@ limit_time_real = 1800
  - That will allow a proccess be active for max: 30minutes(1800 seconds)
  - After install it, Requires go to: Settings/API Token/ and enter
  - Custom URL:
-
 ```sh	
 https://api1-tmx.app.portpro.io/v1/customer/
 ```
