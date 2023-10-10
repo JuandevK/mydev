@@ -13,6 +13,7 @@ This table show detailed options related about script
 |  sh_global_search	|   `to search everywhere` |
 
 <details><summary>set up  module sh_global_search</summary> 
+
 ```sh
 https://www.youtube.com/watch?v=rbkWI9j0XN0
 ```
