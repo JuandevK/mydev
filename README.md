@@ -12,7 +12,9 @@ This table show detailed options related about script
 |  az_lead_extract_auth| `linkedln account`   | 
 |  sh_global_search|   `to search everywhere` |
 | | set up  module sh_global_search |
-| | ```sh https://www.youtube.com/watch?v=rbkWI9j0XN0```
+| | ```sh 
+    https://www.youtube.com/watch?v=rbkWI9j0XN0
+    ```
 | | [enter link description here](https://www.youtube.com/watch?v=fjXGrHcR1X0&list=PL-zDV7_rrd2onNkmb5weffcFiGQxWynaT)|
 |  tmx_fleet|   TMX Drivers Module, Mexican Module |  
 |  Techn.158|   `Q.4558.abc` |
