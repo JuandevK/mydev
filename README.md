@@ -7,18 +7,18 @@ All variables and comments are described below
 ## Options
 This table show detailed options related about script
 
-| Titles| Description|
-| ------ | ------ |
-|  az_lead_extract_auth| `linkedln account`   | 
-|  sh_global_search|   `to search everywhere` |
+| Titles		| Description       	   |
+| ------ 		| ------ 		   |
+|  az_lead_extract_auth | `linkedln account`       | 
+|  sh_global_search	|   `to search everywhere` |
 
--set up  module sh_global_search 
+set up  module sh_global_search 
 ```sh
 https://www.youtube.com/watch?v=rbkWI9j0XN0
 ```
 
 ```sh
-https://www.youtube.com/watch?v=fjXGrHcR1X0&list=PL-zDV7_rrd2onNkmb5weffcFiGQxWynaT)
+https://www.youtube.com/watch?v=fjXGrHcR1X0&list=PL-zDV7_rrd2onNkmb5weffcFiGQxWynaT
 ```
 
 | Titles| Description|
