@@ -32,7 +32,14 @@ https://www.youtube.com/watch?v=fjXGrHcR1X0&list=PL-zDV7_rrd2onNkmb5weffcFiGQxWy
 <details><summary>custom_api_module</summary>	
 	
 `It brings customers from PP, into contacts module`
-`Before install requires: Go to: sudo nano /etc/odoo-server.conf, then set or add(if not exists)at the end of the file the line:`
+`Before install requires:` 
+`Go to:` 
+
+```sh
+sudo nano /etc/odoo-server.conf
+```
+
+`then set or add(if not exists)at the end of the file the line:`
 
 ```sh	
 limit_time_real = 1800`
