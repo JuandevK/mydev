@@ -42,68 +42,19 @@ sudo nano /etc/odoo-server.conf
 `then set or add(if not exists)at the end of the file the line:`
 
 ```sh	
-limit_time_real = 1800`
+limit_time_real = 1800
 ```
+
+`That will allow a proccess be active for max: 30minutes(1800 seconds)`
+`After install it, Requires go to: Settings/API Token/ and enter`
+`Custom URL:`
+
+```sh	
+https://api1-tmx.app.portpro.io/v1/customer/
+```
+
+
+API Token: token(kind of token is beared but bearer word is not required)
+After that requires go to Settings/Technical/Automation/Scheduled Actions
+, and the action: "Automatic GET Request : Every 1 days run get request."will be created automatically by the installation process` 
 </details>
-
-| Titles| Description|
-| ------ | ------ |
-|  |  |
-|        | |
-|        |  |
-|        | `That will allow a proccess be active for max: 30minutes(1800 seconds)` |
-|        | `After install it, Requires go to: Settings/API Token/ and enter` |
-|        |`Custom URL: https://api1-tmx.app.portpro.io/v1/customer/ API Token: token(kind of token is beared but bearer word is not required) After that requires go to Settings/Technical/Automation/Scheduled Actions, and the action: "Automatic GET Request : Every 1 days run get request."will be created automatically by the installation process` |
-
-```sh 
-pip install readmeai
-```
-
-####Javascript　
-
-```javascript
-function test(){
-	console.log("Hello world!");
-}
- 
-(function(){
-    var box = function(){
-        return box.fn.init();
-    };
-
-    box.prototype = box.fn = {
-        init : function(){
-            console.log('box.init()');
-
-			return this;
-        },
-
-		add : function(str){
-			alert("add", str);
-
-			return this;
-		},
-
-		remove : function(str){
-			alert("remove", str);
-
-			return this;
-		}
-    };
-    
-    box.fn.init.prototype = box.fn;
-    
-    window.box =box;
-})();
-
-var testBox = box();
-testBox.add("jQuery").remove("jQuery");
-```
-
-<details><summary>Lista desplegable</summary>
-	
-</details>
-
-```sh
-https://www.youtube.com/watch?v=rbkWI9j0XN0
-```
