@@ -29,7 +29,8 @@ https://www.youtube.com/watch?v=fjXGrHcR1X0&list=PL-zDV7_rrd2onNkmb5weffcFiGQxWy
 -Q.4558.abc	
 </details>
 
-<details>custom_api_module<summary></summary>	
+<details><summary>custom_api_module</summary>	
+	
 `It brings customers from PP, into contacts module`
 `Before install requires: Go to: sudo nano /etc/odoo-server.conf, then set or add(if not exists)at the end of the file the line: 
 
