@@ -12,8 +12,7 @@ This table show detailed options related about script
 |  az_lead_extract_auth | `linkedln account`       | 
 |  sh_global_search	|   `to search everywhere` |
 
-<details>
-set up  module sh_global_search 
+<details><summary>set up  module sh_global_search</summary> 
 ```sh
 https://www.youtube.com/watch?v=rbkWI9j0XN0
 ```
