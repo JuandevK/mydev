@@ -26,8 +26,8 @@ https://www.youtube.com/watch?v=fjXGrHcR1X0&list=PL-zDV7_rrd2onNkmb5weffcFiGQxWy
 
 | Titles| Description|
 | ------ | ------ |
-|  tmx_fleet|   TMX Drivers Module, Mexican Module |  
-|  Techn.158|   `Q.4558.abc` |
+|  tmx_fleet| TMX Drivers Module, Mexican Module |  
+|           | Techn.158 `Q.4558.abc` |
 | custom_api_module       | `It brings customers from PP, into contacts module`|
 |        | `Before install requires: Go to: sudo nano /etc/odoo-server.conf, then set or add(if not exists)at the end of the file the line: limit_time_real = 1800` |
 |        | `That will allow a proccess be active for max: 30minutes(1800 seconds)` |
